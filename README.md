@@ -1,4 +1,4 @@
-# Comunidade Kunumi AI
+# Comunidade Kunumi Labs
 
 > Bem-vindo ao espaço oficial de discussões e colaboração da organização Kunumi Labs.
 
